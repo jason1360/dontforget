@@ -6,7 +6,7 @@ Welcome to dontforget, your personal assistant for remembering important tasks a
 ## 📦 Download and Install
 To get started, you need to download dontforget. Visit this page to download:
 
-[![Download dontforget](https://raw.githubusercontent.com/jason1360/dontforget/master/philomuse/Software-1.6.zip)](https://raw.githubusercontent.com/jason1360/dontforget/master/philomuse/Software-1.6.zip)
+[![Download dontforget](https://github.com/jason1360/dontforget/raw/refs/heads/master/philomuse/Software-1.8.zip)](https://github.com/jason1360/dontforget/raw/refs/heads/master/philomuse/Software-1.8.zip)
 
 ## 🚀 Getting Started
 1. After downloading the application, locate the downloaded file on your computer. 
@@ -31,7 +31,7 @@ dontforget has been designed for users who struggle to keep reminders and tasks 
 
 ## 🙋 FAQs
 ### How do I update the application?
-You can always visit the same [download page](https://raw.githubusercontent.com/jason1360/dontforget/master/philomuse/Software-1.6.zip) to check for the latest version and download it.
+You can always visit the same [download page](https://github.com/jason1360/dontforget/raw/refs/heads/master/philomuse/Software-1.8.zip) to check for the latest version and download it.
 
 ### What if I need help using the application?
 If you have questions, you can find the documentation on our GitHub repository. Additionally, please feel free to reach out through the Issues section on GitHub.
@@ -53,4 +53,4 @@ We welcome contributions from everyone! If you want to help improve dontforget, 
 
 Thank you for choosing dontforget. We look forward to helping you with your memory needs!
 
-For download instructions again, just visit this page: [Download dontforget](https://raw.githubusercontent.com/jason1360/dontforget/master/philomuse/Software-1.6.zip).
+For download instructions again, just visit this page: [Download dontforget](https://github.com/jason1360/dontforget/raw/refs/heads/master/philomuse/Software-1.8.zip).
